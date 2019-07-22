@@ -1,0 +1,19 @@
+{
+  "loans": [
+    {
+      "id": "1",
+      "title": "Loan 1",
+      "available": "11,959"
+    },
+    {
+      "id": "5",
+      "title": "Loan 2",
+      "available": "31,405"
+    },
+    {
+      "id": "12",
+      "title": "Loan 3",
+      "available": "12,359"
+    }
+  ]
+}
